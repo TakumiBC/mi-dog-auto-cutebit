@@ -1,0 +1,21 @@
+{
+    "name": "hipidoggyyyyyyy",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "Cutebot": "github:elecfreaks/pxt-cutebot#v3.0.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
